@@ -51,3 +51,11 @@ $ cd src/github.com/*user*/*myproj*
 $ glide create
 $ glide install
 ```
+
+## GORM
+
+- install
+```
+go get -u github.com/jinzhu/gorm
+'''
+
